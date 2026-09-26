@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- LifeRhythm Icon: Circadian Wave + Vital Rhythm Arc -->
+    <!-- Circadian Pulse Ribbon -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#CBE6D6"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M30,54 C36,54 40,42 45,36 C50,30 54,78 59,72 C63,66 67,54 78,54" />
+    
+    <!-- Central Vitality Nodes -->
+    <path
+        android:fillColor="#C6E7FE"
+        android:pathData="M59,72 A3.5,3.5 0 1 1 59,71.9 Z" />
+
+    <path
+        android:fillColor="#E0E0FF"
+        android:pathData="M45,36 A3.5,3.5 0 1 1 45,35.9 Z" />
+
+    <!-- Ambient Moon / Sun Arc -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M38,32 A24,24 0 0 1 70,32" />
+</vector>

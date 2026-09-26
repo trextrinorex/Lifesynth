@@ -1,0 +1,6 @@
+{
+  "name": "LifeRhythm",
+  "description": "Understand your day. Understand yourself. Personal physical and digital wellness rhythm analyzer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
